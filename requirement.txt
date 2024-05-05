@@ -1,0 +1,15 @@
+torch
+torchaudio
+librosa
+PyYAML
+g2p-en
+inflect
+matplotlib
+pyworld
+scikit-learn
+scipy
+soundfile
+tensorboard
+tgt
+tqdm
+unidecode
